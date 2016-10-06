@@ -10,8 +10,8 @@
 		<body-content>empty</body-content>
 	</tag>
 	<tag>
-		<name>lelieu</name>
-		<tag-class>handlers.LeLieu</tag-class>
+		<name>lenom</name>
+		<tag-class>handlers.LeNom</tag-class>
 		<description>Tag qui affiche le lieu</description>
 		<body-content>not empty</body-content>
 	</tag>
