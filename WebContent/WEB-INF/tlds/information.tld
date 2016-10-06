@@ -12,7 +12,7 @@
 	<tag>
 		<name>lenom</name>
 		<tag-class>handlers.LeNom</tag-class>
-		<description>Tag qui affiche le lieu</description>
+		<description>Tag qui affiche le nom du projet</description>
 		<body-content>not empty</body-content>
 	</tag>
 </taglib>
