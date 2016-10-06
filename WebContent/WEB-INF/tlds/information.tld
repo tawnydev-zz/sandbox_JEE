@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<description> Mini biblioth\`eque</description>
+	<tag>
+		<name>ladate</name>
+		<tag-class>handlers.LaDate</tag-class>
+		<description>Tag qui affiche la date</description>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>lelieu</name>
+		<tag-class>handlers.LeLieu</tag-class>
+		<description>Tag qui affiche le lieu</description>
+		<body-content>not empty</body-content>
+	</tag>
+</taglib>
