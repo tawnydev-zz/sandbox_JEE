@@ -1,5 +1,5 @@
 # sandbox_JEE
-premier repo servant de projet de démonstration JEE sur les taglibs et JSP.
+Projet de démonstration JEE sur les taglibs et JSP.
 <h2>Pré-requis:</h2>
 <ul>
 <li>Tomcat 8</li>
