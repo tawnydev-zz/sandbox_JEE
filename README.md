@@ -7,7 +7,7 @@ Projet de démonstration JEE sur les taglibs et JSP.
 </ul>
 <h2>Installation:</h2>
 <ul>
-<li>ajouter standard-1.1.2.jar dans le dossier lib de Tomcat</li>
-<li>ajouter jstl-1.2.jar dans le dossier lib de Tomcat</li>
+<li>Ajouter standard-1.1.2.jar dans le dossier lib de Tomcat</li>
+<li>Ajouter jstl-1.2.jar dans le dossier lib de Tomcat</li>
 <li>Déployer sur le Tomcat 8</li>
 </ul>
